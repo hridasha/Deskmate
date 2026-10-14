@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+node_modules/
+.next/
+*.pyc
+.pytest_cache/
+*.tsbuildinfo
+next-env.d.ts
+
+# runtime data: databases, uploads, encryption keys, custom agents, eval runs
+backend/data/

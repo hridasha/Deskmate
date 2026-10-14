@@ -1,0 +1,46 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8010:8000"
+    env_file:
+      - ./backend/.env
+    environment:
+      - CASTCALL_ENV=dev # admin screens open for local use; set ADMIN_TOKEN and remove this in production
+      - ALLOW_PRIVATE_HOSTS=true # lets you connect a database on your own network
+    volumes:
+      - ./backend:/app
+      - hf-cache:/root/.cache/huggingface # downloaded embedding models are kept between rebuilds
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8010
+      - WATCHPACK_POLLING=true
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    depends_on:
+      - backend
+
+  # Real databases for the integration tests:  docker compose --profile test up -d pg-test mysql-test
+  #   docker compose exec -T -e TEST_PG_URL=... backend python -m pytest -m integration   (see backend/tests/test_integration_db.py)
+  pg-test:
+    image: postgres:16-alpine
+    profiles: ["test"]
+    environment:
+      POSTGRES_USER: castcall
+      POSTGRES_PASSWORD: testpass
+      POSTGRES_DB: shop
+  mysql-test:
+    image: mysql:8.4
+    profiles: ["test"]
+    environment:
+      MYSQL_ROOT_PASSWORD: testpass
+      MYSQL_DATABASE: shop
+
+volumes:
+  hf-cache:

@@ -1,0 +1,786 @@
+{
+ "docs": [
+  {
+   "topic": "annual leave and public holidays",
+   "title": "Aurora Cycles Annual Leave and Public Holidays Policy",
+   "body": "Aurora Cycles provides comprehensive paid time off to support employee well-being and work-life balance. Full-time staff members accrue a standard entitlement of twenty-four vacation days per calendar year, calculated starting from the official commencement date of January 1, 2024. In addition to personal leave, the organization observes ten designated public holidays annually, which are published in advance by the human resources department led by Director Sarah Jenkins. Employees who are required to work on any official public holiday will receive compensating time off at a rate of double their standard hours, provided the shift is logged within forty-eight hours in the internal payroll system. Unused annual leave may roll over into the subsequent calendar year, but the maximum accumulated balance cannot exceed eight days, and all excess time must be utilized before March 31, 2025. Part-time employees receive a prorated allocation of vacation days based on their contracted weekly hours. Any requests for extended leave exceeding five consecutive business days must be submitted at least fourteen days prior to departure and approved by the direct supervisor. For bereavement leave, staff are granted up to five paid days off upon the passing of an immediate family member. Aurora Cycles remains committed to ensuring every worker gets adequate rest throughout the operating period. Managers are instructed to review holiday calendars quarterly to maintain sufficient operational coverage across all manufacturing lines and customer support desks. Any discrepancies regarding vacation accrual rates should be directed to payroll specialists via the internal helpdesk portal.",
+   "questions": [
+    {
+     "question": "What is the yearly vacation day entitlement for full-time employees?",
+     "answer": "twenty-four"
+    },
+    {
+     "question": "How many official public holidays does the company observe each year?",
+     "answer": "ten"
+    },
+    {
+     "question": "By what specific deadline must any accumulated leftover vacation days be spent?",
+     "answer": "March 31, 2025"
+    }
+   ]
+  },
+  {
+   "topic": "remote and hybrid work",
+   "title": "Aurora Cycles Remote and Hybrid Work Policy",
+   "body": "Aurora Cycles embraces a flexible working model to accommodate diverse staff needs while maintaining high productivity levels across all departments. The hybrid framework permits eligible employees to work remotely for up to two designated days per workweek, while the remaining three days require physical presence at the primary corporate office located at 400 Innovation Way. To qualify for this arrangement, staff members must have completed a mandatory probationary period of ninety days and received a satisfactory performance rating during their initial review overseen by Operations Manager David Vance. Remote workspaces must adhere to strict safety and ergonomic guidelines established by the workplace health committee on June 1, 2023. Furthermore, employees operating from home are required to maintain a secure broadband internet connection with a minimum download speed of fifty megabits per second to ensure seamless collaboration during daily virtual meetings. Core working hours are established between 10:00 AM and 3:00 PM, during which all personnel must remain accessible via company messaging applications. Requests to modify remote work schedules must be submitted formally through the internal portal and require written authorization from the department head. Equipment provided by Aurora Cycles, including laptops and external monitors, remains the property of the firm and must be returned immediately upon termination of employment. Regular audits of home office setups may be conducted with five days prior written notice. Management reserves the right to revoke remote work privileges if productivity metrics fall below acceptable thresholds or if communication standards are consistently neglected over a rolling thirty-day evaluation window.",
+   "questions": [
+    {
+     "question": "What is the street address of the main corporate office?",
+     "answer": "400 Innovation Way"
+    },
+    {
+     "question": "How many days of service must a worker complete before becoming eligible for this flexibility?",
+     "answer": "ninety"
+    },
+    {
+     "question": "On what date did the workplace health committee establish the ergonomic guidelines?",
+     "answer": "June 1, 2023"
+    }
+   ]
+  },
+  {
+   "topic": "travel and expense reimbursement",
+   "title": "Aurora Cycles Travel and Expense Reimbursement Policy",
+   "body": "To support necessary business travel while ensuring fiscal responsibility, Aurora Cycles has established clear guidelines for expense reporting and reimbursement. All business trips must receive prior authorization from Finance Controller Robert Chen at least seven days before booking tickets or accommodations. When traveling for corporate assignments, employees are expected to select economical options, restricting hotel bookings to a maximum nightly rate of one hundred fifty dollars. Air travel must be booked in economy class for all domestic routes, whereas international flights exceeding six hours in duration may be upgraded to premium economy with prior managerial sign-off. Daily meal allowances are capped at forty-five dollars total per day, and all claims must be accompanied by itemized tax receipts to qualify for repayment. Expense reports must be submitted through the enterprise expense platform no later than fourteen calendar days following the completion of the trip. Failure to submit documentation within this designated window will result in the forfeiture of reimbursement rights. Cash advances for international delegations can be requested by contacting the corporate treasury department led by Lisa Wong at least ten business days prior to departure. Any personal expenses incurred during business trips, such as minibar charges, entertainment, or laundry services, are strictly the responsibility of the traveler and will not be covered by corporate funds. Corporate credit cards issued by Aurora Cycles must be used exclusively for authorized business transactions and reconciled monthly. Misuse of expense privileges will trigger an internal audit and potential disciplinary action under company guidelines.",
+   "questions": [
+    {
+     "question": "Who serves as the finance controller responsible for travel approvals?",
+     "answer": "Robert Chen"
+    },
+    {
+     "question": "What is the maximum allowed nightly cost for hotel lodging?",
+     "answer": "one hundred fifty"
+    },
+    {
+     "question": "Within how many days after a trip must staff members submit their expense reports?",
+     "answer": "fourteen"
+    }
+   ]
+  },
+  {
+   "topic": "information security basics",
+   "title": "Aurora Cycles Information Security Basics Policy",
+   "body": "Protecting proprietary bicycle designs and customer data is paramount at Aurora Cycles. All personnel are required to adhere to foundational information security protocols to mitigate cyber threats. Every employee must create a unique network password consisting of at least twelve characters, combining uppercase letters, numbers, and symbols, which must be updated every ninety days without exception. Multi-factor authentication must be enabled on all corporate software applications, utilizing the secure token generator provided by the IT security division managed by Chief Technology Officer Marcus Brody. Public Wi-Fi networks must never be accessed for company business unless connected through the official corporate virtual private network configured by system administrators on August 15, 2023. Phishing simulations are conducted randomly throughout the year, and staff members who fail three consecutive tests will be required to complete remedial cybersecurity training within five business days. The unauthorized transfer of intellectual property, including proprietary frame schematics and customer databases, to external personal storage devices or unauthorized cloud services is strictly prohibited and constitutes grounds for immediate dismissal. Any suspected security incidents or compromised credentials must be reported immediately to the IT security helpdesk via extension 5542. Laptops and mobile devices must be locked manually whenever left unattended, even for brief moments within office premises. Compliance with these security measures is mandatory for all permanent contractors and full-time personnel alike to safeguard the operational integrity of the organization.",
+   "questions": [
+    {
+     "question": "What is the minimum character length required for employee network passwords?",
+     "answer": "twelve"
+    },
+    {
+     "question": "Who is the chief technology officer overseeing the IT security division?",
+     "answer": "Marcus Brody"
+    },
+    {
+     "question": "On what date did system administrators configure the official corporate virtual private network?",
+     "answer": "August 15, 2023"
+    }
+   ]
+  },
+  {
+   "topic": "onboarding for new hires",
+   "title": "Onboarding for New Hires",
+   "body": "Welcome to Aurora Cycles! We are thrilled to have you join our team. Your journey begins with our comprehensive onboarding program designed to set you up for success. On your first day, report to the corporate headquarters located at 742 Evergreen Terrace by 9:00 AM. You will be greeted by Sarah Jenkins, our Head of Human Resources, who will guide you through the initial orientation process. During the first week, new employees must complete mandatory safety training modules and setup their internal accounts. The orientation schedule consists of exactly 5 core modules covering company culture, compliance, safety standards, software tools, and product catalog familiarization. Please note that probation lasts for a duration of 90 days, during which your direct supervisor will conduct bi-weekly check-ins to review your progress and address any concerns you might have. On day 30, you will submit your first feedback form regarding the onboarding experience. By the end of your second week, you are required to sign the employee handbook acknowledgment form and return it to the HR department. Aurora Cycles believes in continuous learning, and you will be assigned a mentor from your department for your first 6 months. Your mentor will help you navigate daily tasks and introduce you to key stakeholders across different departments. We host a monthly welcome breakfast on the first Friday of every month at the main cafeteria, where you can network with leadership and fellow peers. Should you have any questions prior to your arrival, feel free to contact the onboarding team directly at extension 4042. We want to ensure a smooth transition into your new role and are committed to supporting you every step of the way. Welcome aboard to the Aurora Cycles family!",
+   "questions": [
+    {
+     "question": "At what time must new employees arrive at the main office on their initial day?",
+     "answer": "9:00 AM"
+    },
+    {
+     "question": "What is the total duration of the probationary period for staff members?",
+     "answer": "90 days"
+    },
+    {
+     "question": "Who is the person responsible for leading the initial orientation?",
+     "answer": "Sarah Jenkins"
+    }
+   ]
+  },
+  {
+   "topic": "company laptops and equipment",
+   "title": "Company Laptops and Equipment",
+   "body": "Aurora Cycles provides necessary hardware to ensure all team members can perform their duties efficiently. Upon starting, every full-time employee is issued a standard Aurora Cycles workstation package, which includes a 15-inch laptop, a docking station, and an ergonomic mouse. Equipment allocation is managed by the IT Asset Management division, currently led by Director Marcus Vance. All issued assets remain the exclusive property of Aurora Cycles and must be treated with professional care. Employees are financially responsible for any damage resulting from gross negligence or intentional misuse. Regular maintenance checks are scheduled biannually, and devices must be brought to the IT helpdesk in room 302 for inspection every May and November. If your device experiences technical failure or hardware malfunction, you must report the issue to the IT support ticket system within 24 hours of discovery. Software installation is restricted; administrative rights are retained exclusively by the IT department to ensure network security and compliance with software licensing agreements. Employees are permitted to request specialized software tools by submitting a formal approval form signed by their department head. When traveling for business purposes, equipment must remain in your physical possession at all times and should never be left unattended in a vehicle. Upon separation from the company, whether voluntary or involuntary, all hardware, including chargers, security tokens, and peripherals, must be returned to HR on your final working day. Failure to return company property may result in legal action or deductions from your final paycheck as permitted by local labor laws. For urgent equipment replacements outside of standard business hours, contact the emergency IT hotline at 1-800-555-0199.",
+   "questions": [
+    {
+     "question": "Where should staff bring their devices for the bi-annual inspection?",
+     "answer": "room 302"
+    },
+    {
+     "question": "What is the name of the individual who directs IT asset management?",
+     "answer": "Marcus Vance"
+    },
+    {
+     "question": "Which phone number should workers call for urgent off-hours hardware support?",
+     "answer": "1-800-555-0199"
+    }
+   ]
+  },
+  {
+   "topic": "health and wellness benefits",
+   "title": "Health and Wellness Benefits",
+   "body": "At Aurora Cycles, we prioritize the physical and mental well-being of our workforce. We offer a comprehensive health and wellness package designed to support you and your eligible dependents. Our primary medical coverage is provided through Blue Cross Blue Shield, featuring a low annual deductible of $500 for individual plans. Employees become eligible for health benefits on the first day of the month following completion of 30 days of continuous employment. In addition to standard medical, dental, and vision care, Aurora Cycles provides a monthly wellness stipend of $75 to help cover gym memberships, yoga classes, or mental health applications. To promote a healthy work-life balance, all full-time staff members receive 15 paid vacation days per calendar year, which begin accruing immediately upon hire. Dental coverage includes two routine preventive cleanings per year at no additional out-of-pocket cost. Furthermore, our Employee Assistance Program, managed in partnership with LifeWorks, offers free and confidential counseling sessions 24 hours a day, 7 days a week. You can enroll in or modify your benefit selections during the annual open enrollment period, which takes place strictly from November 1 to November 30. Any changes made during this window go into effect on January 1 of the upcoming year. If you experience a qualifying life event, such as marriage, the birth of a child, or adoption, you have a 30-day window from the date of the event to update your coverage plans accordingly. For detailed brochures regarding copays, prescription tiers, and provider networks, please visit the employee benefits portal or reach out to our Benefits Coordinator, Elena Rostova, at benefits@auroracycles.com.",
+   "questions": [
+    {
+     "question": "What is the yearly deductible amount for single medical plans?",
+     "answer": "$500"
+    },
+    {
+     "question": "How much financial support is given monthly for fitness and health activities?",
+     "answer": "$75"
+    },
+    {
+     "question": "Who serves as the primary contact person for insurance and wellness inquiries?",
+     "answer": "Elena Rostova"
+    }
+   ]
+  },
+  {
+   "topic": "pension and retirement plan",
+   "title": "Pension and Retirement Plan",
+   "body": "Planning for your financial future is a crucial aspect of your employment with Aurora Cycles. We are proud to offer a robust retirement savings program designed to help you build long-term security. All permanent employees are automatically enrolled in the Aurora Cycles 401(k) retirement plan at a default contribution rate of 3 percent of their pre-tax earnings after completing 60 days of service. You may choose to increase, decrease, or opt out of this contribution rate at any time by updating your preferences through the Vanguard financial portal. Aurora Cycles believes in investing in your future, and the company will match 100 percent of your contributions up to the first 5 percent of your total annual salary. Employer matching funds are subject to a 3-year vesting schedule, meaning you gain full ownership of the company contributions after completing 36 months of continuous service with Aurora Cycles. For employees who wish to make catch-up contributions, additional pre-tax deposits are permitted for individuals aged 50 and older, in accordance with federal tax guidelines. Investment portfolio options range from conservative index funds to aggressive growth stocks, allowing you to tailor your asset allocation to your personal risk tolerance. The retirement plan is overseen by the Fiduciary Investment Committee, chaired by Chief Financial Officer Arthur Pendelton. Annual statements are generated and mailed to your home address every January, detailing your account growth, investment performance, and projected retirement income. If you have questions regarding rollover options from previous employers or beneficiary designations, please schedule an appointment with our dedicated retirement advisor, David Chen, whose office is located in suite 410. We encourage all team members to regularly review their retirement strategy to ensure they remain on track for a comfortable post-career life.",
+   "questions": [
+    {
+     "question": "What is the default salary percentage deducted for the retirement savings plan?",
+     "answer": "3 percent"
+    },
+    {
+     "question": "How many months of continuous work are required to fully own the employer matching funds?",
+     "answer": "36 months"
+    },
+    {
+     "question": "Who holds the title of Chief Financial Officer and chairs the oversight committee?",
+     "answer": "Arthur Pendelton"
+    }
+   ]
+  },
+  {
+   "topic": "performance reviews and promotions",
+   "title": "Performance Reviews and Promotions Policy",
+   "body": "Aurora Cycles conducts formal performance evaluations twice annually, specifically concluding on March 31 and September 30. Employees must submit their self-assessments through Workday no later than October 15 for the autumn cycle. The process is overseen by Chief People Officer Brenda Vance, who ensures equitable scoring across all engineering and design squads. To be eligible for a promotion to Senior Engineer, staff members are required to maintain a minimum tenure of eighteen months in their current role and achieve a rating of Exceeds Expectations in at least two consecutive assessment periods. Department heads must finalize all promotion rosters and compensation adjustments by November 10 to allow adequate time for payroll integration before the fiscal year rollover on January 1. Any grievances regarding the review outcomes must be formally submitted to the human resources committee within ten business days of the final score release. Managers failing to complete reviews by the designated deadline will face a ten percent reduction in their annual discretionary bonus. We utilize a five-tier rating scale ranging from Unsatisfactory to Outstanding, where Level 4 corresponds to Proficient. Peer feedback constitutes thirty percent of the overall evaluation score, while manager assessment accounts for the remaining seventy percent. All promotion committees consist of at least three impartial reviewers from different departments to eliminate potential bias. Training sessions on unbiased evaluation metrics are mandatory for all team leads and are scheduled for August 12 each year. Feedback sessions must be conducted face-to-face or via secure video conference within one week following the score finalization date. Employees placed on a performance improvement plan have exactly sixty days to meet the outlined milestones before employment status is reassessed by executive leadership.",
+   "questions": [
+    {
+     "question": "When does the autumn evaluation self-assessment window close?",
+     "answer": "October 15"
+    },
+    {
+     "question": "What is the name of the executive overseeing the evaluation process?",
+     "answer": "Brenda Vance"
+    },
+    {
+     "question": "What is the mandatory length of service needed to qualify for a senior engineering advancement?",
+     "answer": "eighteen months"
+    }
+   ]
+  },
+  {
+   "topic": "parental leave",
+   "title": "Parental Leave Policy",
+   "body": "At Aurora Cycles, we support growing families by offering comprehensive parental leave benefits to all full-time personnel. Primary caregivers are entitled to sixteen weeks of fully paid time off following the birth, adoption, or foster placement of a child. Secondary caregivers receive six weeks of fully paid leave, which can be taken continuously or split into two-week increments during the child's first year of life. To qualify for this benefit, employees must have completed at least twelve continuous months of service with Aurora Cycles prior to the expected delivery date. Staff members must notify the benefits administration team by submitting form PL-402 at least ninety days in advance of the anticipated start date. Coordinated by Benefits Director Marcus Holloway, the program guarantees job protection and continuation of health insurance coverage throughout the duration of the leave. Employees wishing to extend their absence beyond the paid allotment may request up to an additional eight weeks of unpaid leave, subject to departmental operational needs. Upon returning to work, new parents are eligible for a flexible working arrangement, allowing remote days for three months. A transition stipend of five hundred dollars is provided to assist with child care adjustments during the first month back. Any unused vacation days accrued prior to the leave period will be rolled over and preserved in the employee ledger. Detailed care logs and status updates are not required while on leave, allowing staff to focus entirely on their families. The company organizes a welcome back breakfast on the first Monday of every month for returning parents.",
+   "questions": [
+    {
+     "question": "How many weeks of paid time off are granted to primary caregivers?",
+     "answer": "sixteen weeks"
+    },
+    {
+     "question": "What is the identifier of the form employees must submit to notify administration?",
+     "answer": "PL-402"
+    },
+    {
+     "question": "Who is the director managing the parental leave program?",
+     "answer": "Marcus Holloway"
+    }
+   ]
+  },
+  {
+   "topic": "procurement and vendor approval",
+   "title": "Procurement and Vendor Approval Policy",
+   "body": "Aurora Cycles maintains strict procurement protocols to ensure fiscal responsibility and operational integrity across all divisions. All external vendor contracts exceeding ten thousand dollars must undergo a rigorous vetting procedure supervised by Chief Financial Officer Arthur Pendelton. Department managers are required to solicit bids from at least three distinct suppliers before selecting a vendor for projects valued over twenty-five thousand dollars. The primary procurement review board convenes on the second Tuesday of every month to evaluate pending proposals and issue formal vendor accreditations. Approved vendors must adhere to the Aurora Cycles Supplier Code of Conduct, last updated on June 15, and provide proof of liability insurance with a minimum coverage limit of one million dollars. Invoices submitted by suppliers are processed on net-thirty payment terms, with disbursements scheduled strictly on Fridays. Any emergency purchases bypassing the standard bidding process require written authorization from the managing director within forty-eight hours of transaction execution. Vendor performance audits are conducted annually every November to determine contract renewals or terminations based on delivery timeliness and quality benchmarks. Procurement requests involving software subscriptions must also receive security clearance from the IT department prior to financial sign-off. Preferred suppliers who maintain a partnership exceeding three years receive priority consideration for new company initiatives and contract extensions. Compliance violations regarding vendor selection protocols will result in an internal audit and potential disciplinary action. All procurement records and signed agreements must be archived in the digital vault system for a minimum retention period of seven years.",
+   "questions": [
+    {
+     "question": "What monetary threshold triggers the requirement for three separate supplier bids?",
+     "answer": "twenty-five thousand dollars"
+    },
+    {
+     "question": "On which day of the week are financial disbursements to suppliers processed?",
+     "answer": "Fridays"
+    },
+    {
+     "question": "When was the supplier code of conduct most recently revised?",
+     "answer": "June 15"
+    }
+   ]
+  },
+  {
+   "topic": "code review and release process",
+   "title": "Code Review and Release Process Policy",
+   "body": "To maintain high software reliability at Aurora Cycles, all code changes must adhere to our standardized review and deployment framework. Every pull request requires mandatory approval from at least two senior software engineers before it can be merged into the main production branch. Engineering Operations Manager Samantha Ray manages the release pipeline, which deploys updates to live environments strictly on Tuesdays and Thursdays at 02:00 UTC. Automated testing suites must achieve a minimum code coverage threshold of eighty-five percent to pass the continuous integration gatekeeper. Critical security hotfixes bypass the standard staging queue but still require sign-off from the on-call security lead and a post-incident review within twenty-four hours. Feature flags must be utilized for all user-facing modifications, allowing features to be toggled remotely in the event of unforeseen performance degradation. Release documentation must be updated in our internal wiki repository prior to initiating any production deployment sequence. Developers introducing breaking changes to public APIs are required to notify downstream consuming teams at least fourteen days in advance. Staging environments are refreshed every Sunday at midnight to mirror production database schemas accurately. Any deployment causing a system outage exceeding five minutes mandates an automatic rollback initiated by the monitoring daemon. Mentorship pairs consisting of one junior and one senior developer must review at least five pull requests together during their first month on the engineering team. All deprecated endpoints are scheduled for complete removal precisely six months after their initial deprecation announcement.",
+   "questions": [
+    {
+     "question": "At what time in UTC do code updates deploy to live environments?",
+     "answer": "02:00 UTC"
+    },
+    {
+     "question": "What percentage of test coverage is required by the continuous integration system?",
+     "answer": "eighty-five percent"
+    },
+    {
+     "question": "Who is the manager overseeing the release pipeline?",
+     "answer": "Samantha Ray"
+    }
+   ]
+  },
+  {
+   "topic": "incident response on-call rota",
+   "title": "Incident Response On-Call Rota Policy",
+   "body": "Welcome to the Aurora Cycles internal incident response standard operating procedure. This policy outlines the scheduling rules for our technical and logistics teams. Effective January 15, 2024, the primary on-call rotation is managed by Sarah Jenkins, our Lead Systems Engineer. Every designated engineer must remain reachable via the corporate pager within 15 minutes of any alert generated by our monitoring systems. The standard shift duration is exactly 7 days, beginning every Monday at 09:00 UTC and concluding the following Monday at 08:59 UTC. During major operational outages, team members receive an emergency hazard stipend of 250 dollars per active shift. Furthermore, secondary escalation occurs if a critical ticket remains unresolved after 45 minutes; at that point, Marcus Vance, the Director of Infrastructure, must be notified immediately. Any shift trades or coverage swaps require a minimum notice of 48 hours and must be formally approved by Sarah Jenkins through the internal HR portal. Failure to log incidents correctly in the tracking software may lead to a formal review meeting with department heads. All staff are expected to review these guidelines annually to ensure compliance with our security frameworks. Compliance guarantees that our supply chain and retail platforms remain secure for all global consumers. We appreciate your dedication to maintaining the highest standards of operational resilience across all regional branches worldwide.",
+   "questions": [
+    {
+     "question": "Who oversees the primary schedule rotation?",
+     "answer": "Sarah Jenkins"
+    },
+    {
+     "question": "What is the financial bonus given for handling emergencies during a shift?",
+     "answer": "250 dollars"
+    },
+    {
+     "question": "What is the required notice period for exchanging shifts with a colleague?",
+     "answer": "48 hours"
+    }
+   ]
+  },
+  {
+   "topic": "customer refund policy",
+   "title": "Customer Refund Policy",
+   "body": "This document details the mandatory guidelines regarding customer financial reimbursements at Aurora Cycles. To be eligible for a full monetary return, any physical item purchased must be brought back within 30 days of the original purchase date. The customer must present the valid cash receipt or digital invoice to the store cashier. Refunds are processed using the original payment method, except for cash transactions exceeding 100 dollars, which are distributed via a corporate check mailed within 5 business days. Returns initiated by David Thorne, our Customer Experience Manager, override standard retail exceptions if there is documented manufacturing damage. For online orders, return shipping fees of 15 dollars are deducted from the final payout unless the merchandise arrived defective. Clearance merchandise and customized bicycle frames are final sale and cannot be returned under any circumstances. If a customer misses the return window, store credit may be issued at the discretion of the regional supervisor, provided the request is submitted before 60 days elapse. All customer service representatives must verify customer identification using a government-issued photo ID for any return exceeding 200 dollars in value. This ensures absolute financial transparency and protects our business from fraudulent claims. Thank you for ensuring our retail experiences remain seamless and trustworthy for every patron.",
+   "questions": [
+    {
+     "question": "What is the time limit for bringing items back for money back?",
+     "answer": "30 days"
+    },
+    {
+     "question": "How much is charged for shipping returns on web orders?",
+     "answer": "15 dollars"
+    },
+    {
+     "question": "Who has the authority to approve exceptions for retail returns?",
+     "answer": "David Thorne"
+    }
+   ]
+  },
+  {
+   "topic": "warranty terms for bicycles",
+   "title": "Warranty Terms for Bicycles",
+   "body": "Aurora Cycles provides comprehensive protection guarantees for all manufactured two-wheeled vehicles. The structural frame is covered against manufacturing defects for the lifetime of the original registered owner, overseen by our Quality Assurance Director, Elena Rostova. Moving components, such as gears and brakes, carry a standard warranty period of 2 years starting from the date printed on the sales receipt. Batteries integrated into our electric models are guaranteed to retain at least 70 percent capacity for 500 charge cycles or 3 years, whichever milestone comes first. Labor costs associated with warranty repairs are fully covered by the company during the first 12 months of ownership. To claim warranty service, customers must register their bicycle serial number online within 14 days of purchase. Unauthorized modifications, racing usage, or commercial delivery use will immediately void all active agreements. Any freight charges incurred when shipping a bicycle to our central repair facility in Portland are the responsibility of the consumer, except when the claim is processed within the initial 30-day window. Elena Rostova conducts monthly audits of all returned parts to monitor manufacturing defects and supply chain integrity. We stand firmly behind the craftsmanship of every machine we build to ensure ultimate safety on every ride.",
+   "questions": [
+    {
+     "question": "Who is in charge of quality assurance and oversees frame protection?",
+     "answer": "Elena Rostova"
+    },
+    {
+     "question": "How long does the warranty last for moving parts like gears and brakes?",
+     "answer": "2 years"
+    },
+    {
+     "question": "Within how many days must a buyer register their serial number online?",
+     "answer": "14 days"
+    }
+   ]
+  },
+  {
+   "topic": "warehouse safety rules",
+   "title": "Warehouse Safety Rules",
+   "body": "Safety in our primary distribution hub is paramount for all Aurora Cycles personnel. All warehouse floor staff must wear steel-toed boots and high-visibility vests at all times during operational hours. Forklift drivers are restricted to a maximum speed limit of 10 miles per hour across all loading bays and interior aisles. Warehouse operations are supervised by Chief Safety Officer Robert Chen, who conducts random safety inspections every Tuesday morning. Any workplace accident or near-miss incident must be reported to management within 2 hours of occurrence to comply with occupational health regulations. Aisles must be kept clear of debris, and pallets should never be stacked higher than 4 meters to prevent structural collapse and falling inventory hazards. Emergency fire exits must remain unobstructed, with a mandatory clearance buffer of 3 feet maintained at all times. New employees must complete a mandatory 6-hour safety orientation course before handling heavy machinery or operating motorized pallet jacks. Robert Chen issues quarterly compliance reports to executive leadership to maintain our spotless safety record across all regional depots. Violating these critical rules may result in disciplinary action up to and including termination of employment. We appreciate your unwavering commitment to maintaining a secure and hazard-free workplace for everyone.",
+   "questions": [
+    {
+     "question": "What is the speed restriction for forklift operators inside the facility?",
+     "answer": "10 miles per hour"
+    },
+    {
+     "question": "Who holds the position of Chief Safety Officer?",
+     "answer": "Robert Chen"
+    },
+    {
+     "question": "How much clearance space is required around emergency fire exits?",
+     "answer": "3 feet"
+    }
+   ]
+  },
+  {
+   "topic": "office kitchen and cleaning",
+   "title": "Office Kitchen and Cleaning Policy",
+   "body": "Welcome to Aurora Cycles. Maintaining a clean and pleasant shared environment is a responsibility shared by all staff members in our facility. The primary kitchen is located on the second floor near the main conference area and is open daily from 6:00 AM to 8:00 PM for all personnel. To ensure hygiene and safety, personal food items stored in the communal refrigeration units must be clearly labeled with your full name and the date of storage. Any unlabeled items or food left past Friday at 5:00 PM will be discarded immediately by the sanitation crew during their weekly deep clean. We employ a professional cleaning service managed by Apex Janitorial Services, overseen by our facilities director, Marcus Vance. All employees are strictly required to clean up their own cooking utensils, plates, and mugs immediately after use, either by washing them by hand in the dual-basin sinks or loading them into the commercial dishwasher. The dishwasher runs two scheduled cycles every business day, starting promptly at 12:30 PM and 4:30 PM. Please refrain from operating the dishwasher yourself unless you have received direct authorization from Marcus Vance. Furthermore, storing personal appliances such as individual coffee makers, blenders, or mini-frigerators at your desk or in the kitchen area is prohibited due to electrical safety regulations. Any waste generated from team lunches or catered events must be separated properly into the designated recycling, compost, and landfill bins located near the west exit. If you notice any malfunctioning equipment or run out of essential dishwashing supplies, please submit an internal help desk ticket to the facilities team within two hours. Adherence to these operational guidelines ensures a healthy and organized workplace for everyone at Aurora Cycles.",
+   "questions": [
+    {
+     "question": "At what time does the morning availability window begin for the second-floor kitchen?",
+     "answer": "6:00 AM"
+    },
+    {
+     "question": "Which company is responsible for providing the professional cleaning services for the facility?",
+     "answer": "Apex Janitorial Services"
+    },
+    {
+     "question": "Who is the designated facilities director overseeing office sanitation and equipment?",
+     "answer": "Marcus Vance"
+    }
+   ]
+  },
+  {
+   "topic": "visitor and building access",
+   "title": "Visitor and Building Access Policy",
+   "body": "At Aurora Cycles, the security and privacy of our employees, intellectual property, and physical assets are of the utmost importance. All external visitors, contractors, and clients entering our corporate headquarters must report directly to the security reception desk located in the main lobby. Upon arrival, every visitor is required to present a valid government-issued photo identification card, such as a passport or driver license, to register with the front desk receptionist, Sarah Jenkins. Once registration is completed, visitors will be issued a temporary visitor badge which must remain visibly displayed on their outer clothing at all times while they are inside the building. No visitor is permitted to wander unaccompanied through any of our operational zones, manufacturing floors, or administrative offices. A designated employee host from Aurora Cycles must escort their visitor throughout the duration of the visit, starting from the initial check-in until the visitor exits the premises. If a visitor arrives for a scheduled meeting in conference room Alpha, the host must meet them in the lobby within five minutes of notification. Temporary badges must be returned to the reception desk immediately upon departure, no later than 9:00 PM on weekdays. Any lost or misplaced visitor badges must be reported to the head of corporate security, Captain Robert Sterling, immediately to prevent unauthorized entry risks. Employees who wish to bring personal guests into the office outside of standard business hours, specifically on weekends or holidays, must submit a formal access request form at least forty-eight hours in advance for managerial approval. Compliance with these security measures safeguards our working environment.",
+   "questions": [
+    {
+     "question": "What is the full name of the receptionist who registers guests at the front desk?",
+     "answer": "Sarah Jenkins"
+    },
+    {
+     "question": "Who serves as the head of corporate security responsible for managing lost badges?",
+     "answer": "Captain Robert Sterling"
+    },
+    {
+     "question": "What is the latest hour on weekdays by which temporary visitor badges must be returned?",
+     "answer": "9:00 PM"
+    }
+   ]
+  },
+  {
+   "topic": "data retention and privacy",
+   "title": "Data Retention and Privacy Policy",
+   "body": "Aurora Cycles is committed to maintaining the highest standards of data protection and privacy compliance across all business operations. All employee records, customer transaction histories, and proprietary design files must be retained and archived in accordance with federal regulations and internal corporate governance standards. Standard operational correspondence and general employee emails are scheduled to be automatically archived after a period of 36 months, after which they are permanently deleted from active servers unless placed on a legal hold. Customer financial data and purchasing records must be securely stored in our encrypted database managed by the cybersecurity division, headed by Chief Information Security Officer Elena Rostova. Pursuant to our corporate privacy framework, any formal consumer request to access or delete personal data must be fully processed and resolved within a strict window of 30 days from the date of submission. Physical paper documents containing sensitive personally identifiable information must never be thrown into standard waste bins; instead, they must be shredded on-site using the locked shredding consoles provided on each floor. These secure console bins are emptied and shredded on the first Tuesday of every month by our contracted secure document destruction partner, Secure Shred Solutions. Unauthorized downloading, copying, or transferring of proprietary bicycle frame schematics or internal financial spreadsheets to external cloud storage providers or personal USB drives is strictly forbidden and constitutes a major violation of company policy. Any suspected data breaches or security vulnerabilities must be reported directly to Elena Rostova via the secure reporting portal within four hours of discovery. We regularly audit our data management practices to protect stakeholder trust.",
+   "questions": [
+    {
+     "question": "How many months pass before general employee emails are automatically archived?",
+     "answer": "36"
+    },
+    {
+     "question": "What is the maximum number of days allowed to resolve a consumer request for personal data deletion?",
+     "answer": "30"
+    },
+    {
+     "question": "Which company partner empties and shreds the locked paper console bins on-site?",
+     "answer": "Secure Shred Solutions"
+    }
+   ]
+  },
+  {
+   "topic": "training and learning budget",
+   "title": "Training and Learning Budget",
+   "body": "To foster continuous professional growth and skill development, Aurora Cycles provides an annual financial learning subsidy to all full-time staff members. Each eligible employee is allocated a total individual training stipend of $2,500 per calendar year to be used for approved educational courses, technical certifications, industry conferences, and professional workshops. To qualify for this financial support, the chosen educational program or conference must be directly relevant to your current job role or career path within the company and must be approved in advance by your direct department manager. Departmental training requests are processed and reviewed by the human resources department, led by Director of Talent Acquisition David Miller. All requests for funding must be submitted through the internal employee portal at least fourteen days prior to the start date of the course or event registration deadline. Upon completion of any sponsored training or conference, employees are required to submit a certificate of completion along with all original itemized receipts for expense reimbursement within 15 business days. If an employee resigns from Aurora Cycles within six months of receiving reimbursement for a course costing more than $1,000, they are required to repay fifty percent of the total subsidized amount to the company. Employees are also encouraged to share their newly acquired knowledge by hosting a brief internal presentation or workshop for their team members within one month of returning from the event. For any questions regarding eligible course vendors or reimbursement caps, please reach out to the learning and development coordinator, Lisa Chang. Investing in our workforce ensures that Aurora Cycles remains a leader in innovation and craftsmanship within the cycling industry.",
+   "questions": [
+    {
+     "question": "What is the exact dollar amount allocated as the annual individual training stipend for full-time staff?",
+     "answer": "$2,500"
+    },
+    {
+     "question": "What is the full name of the Director of Talent Acquisition who oversees departmental training requests?",
+     "answer": "David Miller"
+    },
+    {
+     "question": "Who is the specific coordinator to contact regarding eligible course vendors and reimbursement limits?",
+     "answer": "Lisa Chang"
+    }
+   ]
+  },
+  {
+   "topic": "company car and bike-to-work scheme",
+   "title": "Aurora Cycles Company Vehicle and Commuter Mobility Policy",
+   "body": "Aurora Cycles provides structured transportation benefits to support staff mobility while maintaining fiscal responsibility. The executive fleet is managed by Director Marcus Vance, who oversees the acquisition of all company vehicles. Employees eligible for a company car must maintain a valid driver license and submit annual safety clearance documentation to Human Resources by October 1st each year. Vehicle allowances are adjusted annually, providing a standard tier-one stipend of 650 dollars monthly for qualifying senior managers. For sustainable transport, the organization supports the National Cycle Initiative, offering an interest-free purchase loan capped at 2500 dollars for bicycles and safety gear. Personnel utilizing the cycle scheme must utilize the designated bicycle storage facility located in Basement Sector B, which accommodates up to 45 units and is monitored by continuous closed-circuit security cameras. Any traffic violations, parking fines, or toll fees incurred while operating an enterprise-assigned automobile remain strictly the personal responsibility of the designated driver and will not be reimbursed by corporate accounts. Comprehensive vehicle inspections are mandatory and must be scheduled every six months through the corporate garage coordinator, Sarah Jenkins. Unauthorized personal use of enterprise transport outside permitted regional zones can result in formal disciplinary action or immediate revocation of driving privileges. Claims for mileage reimbursement related to authorized business travel must be submitted via the internal portal before the 15th of every month to ensure prompt processing. Failure to adhere to these transport guidelines may lead to the suspension of commuter perks.",
+   "questions": [
+    {
+     "question": "Who is in charge of managing the executive fleet?",
+     "answer": "Marcus Vance"
+    },
+    {
+     "question": "What is the maximum amount available for the bicycle purchase loan?",
+     "answer": "2500 dollars"
+    },
+    {
+     "question": "By what date must annual safety clearance documentation be submitted to Human Resources?",
+     "answer": "October 1st"
+    }
+   ]
+  },
+  {
+   "topic": "overtime and shift allowances",
+   "title": "Aurora Cycles Overtime Compensation and Shift Differential Guidelines",
+   "body": "To ensure fair compensation for operational demands outside standard working hours, Aurora Cycles enforces a comprehensive overtime and shift differential policy. Standard operational hours are defined as 9:00 AM to 5:00 PM, Monday through Friday, under the direct supervision of Operations Manager David Thorne. Any authorized work exceeding 40 hours per standard workweek is classified as overtime and is compensated at a rate of 1.5 times the regular hourly wage. Employees assigned to the evening shift, which runs from 4:00 PM to 12:00 AM, receive an additional shift differential allowance of 3.25 dollars per hour. Night shift workers operating between the hours of 12:00 AM and 8:00 AM are entitled to a premium differential rate of 4.50 dollars per hour. All requests for overtime hours must receive prior written approval from department heads at least 24 hours in advance to qualify for financial reimbursement. On national holidays, personnel who are required to report to the manufacturing plant located in Sector 4 will receive double time pay for all hours worked during that calendar day. Timecards must be reviewed and digitally signed by the payroll administrator, Elena Rostova, no later than 5:00 PM every alternate Friday to guarantee inclusion in the upcoming payroll cycle. Unauthorized extra hours worked without prior supervisory authorization will not be eligible for financial compensation or time off in lieu. Shifts may be traded between colleagues only with the mutual consent of both affected supervisors and must be documented in the scheduling ledger maintained in the main administration office.",
+   "questions": [
+    {
+     "question": "Who acts as the Operations Manager supervising standard hours?",
+     "answer": "David Thorne"
+    },
+    {
+     "question": "What is the hourly differential allowance for the evening shift?",
+     "answer": "3.25 dollars"
+    },
+    {
+     "question": "Who is the payroll administrator responsible for signing timecards?",
+     "answer": "Elena Rostova"
+    }
+   ]
+  },
+  {
+   "topic": "diversity and inclusion commitments",
+   "title": "Aurora Cycles Diversity, Equity, and Inclusion Framework",
+   "body": "Aurora Cycles is steadfastly committed to cultivating an inclusive workplace culture that champions diversity and equal opportunity across all operational levels. The corporate equity committee is chaired by Chief Diversity Officer Amara Okoro, who guides our internal inclusion initiatives. The organization mandates that all hiring panels include a minimum of 2 certified diversity advocates to ensure impartial candidate evaluation during recruitment phases. Mandatory unconscious bias training workshops are scheduled quarterly, with the next comprehensive session set for November 12th in the primary conference auditorium. To measure progress, leadership has established a target to increase workforce demographic representation by 18 percent over the next strategic planning cycle ending in 2026. Any employee who experiences or witnesses discrimination, harassment, or exclusionary behavior is encouraged to report the incident immediately to the internal equity hotline managed by Counselor Liam Brooks. Workplace accessibility audits are conducted semi-annually by an external compliance agency, Accessible Futures LLC, to guarantee that all physical and digital infrastructure accommodates individuals with diverse physical needs. Employee resource groups representing various cultural, gender, and lifestyle communities are fully funded through an annual corporate grant program providing 10000 dollars per approved collective. Non-compliance with our foundational equity standards will trigger an immediate independent review conducted by the ethics board. Promoting an environment of mutual respect remains a core responsibility for every member of the organization, regardless of their title, department, or tenure.",
+   "questions": [
+    {
+     "question": "Who serves as the Chief Diversity Officer chairing the equity committee?",
+     "answer": "Amara Okoro"
+    },
+    {
+     "question": "When is the next comprehensive unconscious bias training session scheduled?",
+     "answer": "November 12th"
+    },
+    {
+     "question": "What is the annual grant amount provided to approved employee resource groups?",
+     "answer": "10000 dollars"
+    }
+   ]
+  },
+  {
+   "topic": "whistleblowing and ethics",
+   "title": "Aurora Cycles Ethics and Whistleblowing Protection Policy",
+   "body": "Integrity and transparency form the bedrock of operations at Aurora Cycles, necessitating robust mechanisms for reporting unethical conduct. The corporate ethics hotline is overseen by Compliance Director Rachel Green, who guarantees absolute confidentiality for all whistleblowers. Employees who observe financial fraud, safety violations, or regulatory non-compliance are required to report these breaches through the secure whistleblower portal. Retaliation of any kind against an employee who reports misconduct in good faith is strictly prohibited and will result in immediate termination of the offending party. The internal audit committee, comprising 5 independent board members, reviews all escalated whistleblowing grievances during their monthly executive meetings. To ensure widespread awareness, mandatory ethics compliance refresher courses are held annually on March 15th for all active corporate staff. Substantiated claims of corporate malpractice are formally documented in the central compliance registry maintained by Senior Auditor Kevin Patel. If an internal report does not yield appropriate corrective action within a period of 30 days, employees retain the legal right to escalate the matter to external regulatory authorities. Financial incentives or rewards are not provided for reporting misconduct, as reporting is considered a fundamental professional duty. Every submitted grievance is assigned a unique tracking number to allow reporters to securely monitor the status of the internal investigation while maintaining their anonymity throughout the entire review procedure.",
+   "questions": [
+    {
+     "question": "Who is the Compliance Director overseeing the ethics hotline?",
+     "answer": "Rachel Green"
+    },
+    {
+     "question": "How many independent board members comprise the internal audit committee?",
+     "answer": "5"
+    },
+    {
+     "question": "On what date are the mandatory ethics compliance refresher courses held annually?",
+     "answer": "March 15th"
+    }
+   ]
+  },
+  {
+   "topic": "quarterly budget planning",
+   "title": "Quarterly Budget Planning",
+   "body": "Aurora Cycles operates under a strict financial timeline designed by CFO Margaret Vance to ensure fiscal responsibility across all manufacturing and retail sectors. For the upcoming fiscal cycle starting on October 1, 2023, department heads must submit their preliminary expenditure forecasts no later than August 15, 2023. The total allocated fund for research and development is strictly capped at $450,000 to support the rollout of the new carbon-frame line. Furthermore, any unexpected expense exceeding $5,000 requires direct written authorization from the finance committee. To streamline this workflow, quarterly reviews will be held on the 10th day of every third month at the main headquarters located at 742 Evergreen Terrace. Team leads are expected to adhere strictly to these benchmarks to avoid automatic budget freezes. Historically, departments that failed to meet these internal milestones experienced a 12 percent reduction in their secondary resource allocations during the subsequent quarter. Margaret Vance emphasizes that transparency and timely data entry are paramount for maintaining our standing with institutional investors. All expense reports must be finalized and uploaded to the internal corporate portal by midnight on the final business day of the quarter. Non-compliance audits will be scheduled biannually by the internal auditor, Robert Thorne, starting on November 5, 2023. These measures are designed to safeguard company assets and ensure that every dollar spent directly contributes to our strategic growth objectives. We appreciate your cooperation in maintaining the financial integrity of Aurora Cycles.",
+   "questions": [
+    {
+     "question": "What is the maximum monetary limit before needing written approval from the finance board?",
+     "answer": "$5,000"
+    },
+    {
+     "question": "By what date must the initial spending projections be handed in?",
+     "answer": "August 15, 2023"
+    },
+    {
+     "question": "Who holds the position of Chief Financial Officer at the organization?",
+     "answer": "Margaret Vance"
+    }
+   ]
+  },
+  {
+   "topic": "supplier payment terms",
+   "title": "Supplier Payment Terms",
+   "body": "At Aurora Cycles, maintaining strong partnerships with our component vendors is crucial for uninterrupted assembly line operations. Led by Procurement Director Arthur Pendelton, our vendor relations framework establishes clear guidelines for invoice processing and compensation. Effective from January 1, 2024, standard vendor invoices must be submitted electronically through the vendor portal within 5 business days of shipment delivery. Our default settlement window is net 30 days from the date of invoice approval. However, suppliers who consistently deliver defect-free components exceeding a batch size of 1,000 units qualify for our early settlement discount program. This program guarantees payment within 10 business days accompanied by a 2 percent early settlement bonus. Any discrepancies regarding shipment counts or pricing must be reported to the accounts payable desk within 7 calendar days of receipt. Vendors with overdue accounts exceeding 60 days will experience an automatic pause in active purchase orders until the dispute is resolved by Arthur Pendelton. To enforce these standards, quarterly supplier audits are conducted by compliance officer Beatrice Gray, with the next review scheduled for April 12, 2024. Vendors are also required to maintain general liability insurance with a minimum coverage limit of $1,000,000. Adherence to these protocols ensures mutual financial health and reinforces our commitment to ethical supply chain management across all regional manufacturing hubs.",
+   "questions": [
+    {
+     "question": "What is the standard duration for settling approved bills?",
+     "answer": "net 30 days"
+    },
+    {
+     "question": "How large must a defect-free lot be to be eligible for the early payout incentive?",
+     "answer": "1,000 units"
+    },
+    {
+     "question": "What is the name of the individual heading the procurement division?",
+     "answer": "Arthur Pendelton"
+    }
+   ]
+  },
+  {
+   "topic": "social media guidelines",
+   "title": "Social Media Guidelines",
+   "body": "As representatives of Aurora Cycles, employees play a vital role in shaping our public perception across digital platforms. Communications Director Samantha Reed outlines these digital conduct rules to protect brand integrity while encouraging authentic employee advocacy. When posting about company initiatives, staff must never disclose proprietary bicycle frame designs, unreleased pricing structures, or prototype specifications before their official launch date of May 15, 2024. Personal social media accounts must include a clear disclaimer stating that all expressed views are entirely the author's own and do not reflect the official stance of Aurora Cycles. Engaging in online disputes with competitors or customers is strictly prohibited and can result in disciplinary action up to and including termination. To foster a positive online community, employees are encouraged to share approved marketing assets carrying the official campaign hashtag #RideAurora. Any media inquiries regarding corporate strategy must be immediately forwarded to the public relations department within 2 hours of receipt. Samantha Reed hosts a monthly digital compliance webinar on the first Tuesday of every month, with 45 mandatory attendees per session to review evolving platform policies. Violations of these digital communication standards will be formally investigated by the ethics committee, headed by investigator Marcus Brody, starting on June 1, 2024. We trust our team members to exercise sound judgment and professionalism in all digital spaces, ensuring that our brand reputation remains pristine across every online channel.",
+   "questions": [
+    {
+     "question": "On what day are unreleased product specifications permitted to be shared publicly?",
+     "answer": "May 15, 2024"
+    },
+    {
+     "question": "What specific hashtag should personnel use when sharing authorized marketing content?",
+     "answer": "#RideAurora"
+    },
+    {
+     "question": "Who oversees the communications department as its director?",
+     "answer": "Samantha Reed"
+    }
+   ]
+  },
+  {
+   "topic": "workplace harassment procedure",
+   "title": "Workplace Harassment Procedure",
+   "body": "Aurora Cycles is unequivocally committed to providing a safe, inclusive, and respectful working environment for all staff members, contractors, and visitors. Human Resources Director Elena Rostova oversees the rigorous enforcement of our zero-tolerance policy regarding any form of workplace harassment, bullying, or discrimination. Any employee who feels subjected to inappropriate behavior must report the incident to the internal grievance committee within 14 calendar days of the occurrence. Reports can be submitted confidentially via our dedicated ethics hotline at extension 4302 or directly to lead investigator Julian Vance. Upon receiving a formal complaint, the HR department initiates a comprehensive investigation that must be concluded within 21 business days. If substantiated, disciplinary measures ranging from mandatory sensitivity training to immediate termination of employment will be enforced by Elena Rostova. Retaliation against any individual who reports misconduct or participates in an investigation is strictly forbidden and will result in separate disciplinary actions. Annual anti-harassment training is mandatory for all personnel, with the next district-wide session scheduled for September 20, 2023. Our corporate policy mandates that at least 95 percent of all active staff complete this training module by the designated deadline. We encourage open communication and prompt reporting to ensure that Aurora Cycles remains a supportive workplace where every employee can thrive professionally without fear or intimidation.",
+   "questions": [
+    {
+     "question": "What is the internal phone extension for the anonymous ethics hotline?",
+     "answer": "extension 4302"
+    },
+    {
+     "question": "Within how many days must an employee report an inappropriate incident?",
+     "answer": "14 calendar days"
+    },
+    {
+     "question": "Who manages the human resources department and enforces disciplinary outcomes?",
+     "answer": "Elena Rostova"
+    }
+   ]
+  },
+  {
+   "topic": "recruitment and referral bonus",
+   "title": "Recruitment and Referral Bonus Policy",
+   "body": "Aurora Cycles maintains a rigorous recruitment framework managed by our Talent Acquisition Director, Elena Vance. To encourage our internal team members to help us find top talent, we operate a generous staff recommendation program. Under this scheme, any permanent staff member who introduces a successful candidate for an open vacancy will receive a financial incentive. The standard referral incentive is set at 350 dollars for regular staff positions. For specialized engineering roles, such as senior frame designers, the bonus increases to 750 dollars to reflect the difficulty of filling these critical positions. To qualify for any payout, the referred individual must successfully complete their standard 90-day probationary period. Furthermore, the referrer must remain actively employed by Aurora Cycles on the exact date the financial reward is processed. Payouts are officially scheduled for disbursement on the 15th day of every calendar month following the completion of the probationary term. HR department audits conducted on January 10, 2024, confirmed that this initiative improved our time-to-hire metric by nearly 20 percent. Employees who wish to submit a candidate must do so exclusively through our internal portal, Workday, using the unique referral submission form. Direct emails to Elena Vance or department heads will not be processed for the incentive. Re-hires of former employees who left the company within the last 12 months are strictly excluded from qualifying for the bonus program. Management reviews these guidelines annually to ensure market competitiveness.",
+   "questions": [
+    {
+     "question": "What is the financial reward for recommending someone for a standard job opening?",
+     "answer": "350 dollars"
+    },
+    {
+     "question": "On which day of the month are the referral payouts typically disbursed?",
+     "answer": "15th"
+    },
+    {
+     "question": "Who oversees the talent acquisition framework at the company?",
+     "answer": "Elena Vance"
+    }
+   ]
+  },
+  {
+   "topic": "retail store opening hours",
+   "title": "Retail Store Opening Hours Policy",
+   "body": "Retail locations operated by Aurora Cycles adhere to a standardized operating schedule to ensure consistent service for our cycling community. Our flagship store, located at 400 Grand Avenue, opens its doors to the public at 9:00 AM every Monday through Friday. Weekend hours are slightly adjusted to accommodate recreational riders, with Saturday hours beginning at 10:00 AM. On Sundays, the establishment operates on reduced hours, closing entirely by 5:00 PM to allow staff adequate time for weekly rest and inventory prep. Store operations across all corporate-owned branches are supervised by Marcus Brody, our Head of Retail Operations. During national holidays, hours may vary significantly. For instance, the store remains completely closed on Christmas Day, December 25, to give all employees time off with their families. Conversely, extended shopping hours are enforced during the peak summer cycling season, specifically starting from June 1 through August 31, during which Friday closing times are extended to 8:00 PM. Local managers possess the authority to request temporary schedule adjustments, provided they submit a formal written request to Marcus Brody at least 14 days in advance. Security protocols mandate that all storefronts must be fully locked and armed within 30 minutes of the official closing time. Any unauthorized schedule deviation reported during the fiscal audit on November 12 will result in a formal review by the regional director. Compliance with these operational hours is mandatory for all retail staff members.",
+   "questions": [
+    {
+     "question": "At what time does the flagship retail location open on weekdays?",
+     "answer": "9:00 AM"
+    },
+    {
+     "question": "Who holds the position of Head of Retail Operations?",
+     "answer": "Marcus Brody"
+    },
+    {
+     "question": "On what date is the store completely closed for the holidays?",
+     "answer": "December 25"
+    }
+   ]
+  },
+  {
+   "topic": "shipping and delivery times",
+   "title": "Shipping and Delivery Times Policy",
+   "body": "Aurora Cycles guarantees efficient logistics handling for all online bicycle and accessory orders placed through our digital storefront. Standard ground shipments within the continental United States are processed within 2 business days from the moment the order is authorized. Customers typically receive their parcels within 5 to 7 business days following dispatch from our primary fulfillment hub. For urgent orders, we offer an expedited shipping tier managed in partnership with FedEx Logistics, which guarantees arrival within exactly 2 business days. International deliveries are subject to customs clearance delays, but our average transit window is estimated at 14 business days. The logistics network is overseen by our Supply Chain Vice President, Sarah Jenkins. During peak promotional periods, such as our annual Black Friday event held on November 27, order processing times may temporarily extend by an additional 48 hours. Shipping fees are automatically calculated at checkout based on package weight and destination zip code. Customers residing within a 15-mile radius of any physical Aurora Cycles retail branch are eligible for our local white-glove delivery service, which includes professional assembly at the customer's residence. Any shipping discrepancies, missing components, or transit damages must be formally reported to customer support within 7 days of the recorded delivery date. Internal logistics reviews published on October 4 indicate an overall on-time delivery rate of 98.4 percent across all operational zones. Delivery schedules are subject to modification during severe weather events.",
+   "questions": [
+    {
+     "question": "How many business days does expedited shipping take to arrive?",
+     "answer": "2 business days"
+    },
+    {
+     "question": "Who serves as the Supply Chain Vice President?",
+     "answer": "Sarah Jenkins"
+    },
+    {
+     "question": "What is the approximate delivery window for international orders?",
+     "answer": "14 business days"
+    }
+   ]
+  },
+  {
+   "topic": "product recall procedure",
+   "title": "Product Recall Procedure Policy",
+   "body": "Safety is the highest priority at Aurora Cycles, and we maintain a strict protocol for handling defective components or safety hazards discovered in our merchandise. When a potential defect is identified, the Quality Assurance Lead, Dr. Arthur Pendelton, initiates an immediate internal investigation. If a product recall is deemed necessary, an emergency notification is broadcast to all regional managers and retail partners within 24 hours. Affected customers are notified via direct email and a public announcement posted prominently on our corporate website. Consumers who purchased the impacted item are instructed to immediately cease use and return the merchandise to any local Aurora Cycles branch. Upon return, the customer is entitled to a full financial refund or a brand-new replacement part free of charge. For major structural recalls, such as the carbon-fiber fork defect recorded on incident report #8842, a mandatory inspection protocol must be completed by a certified technician. All recalled inventory must be physically quarantined in a secure backroom cage and labeled with bright orange warning tags. The destruction or return shipping of defective inventory to our main warehouse must be finalized no later than 30 days following the initial recall announcement. Compliance records and inventory logs are audited quarterly by federal safety inspectors, with the most recent compliance check successfully passing on May 19. Employees found negligent in executing recall procedures face disciplinary action under corporate compliance guidelines. Detailed records of every returned item are archived digitally for a mandatory retention period of 5 years to ensure complete traceability and accountability.",
+   "questions": [
+    {
+     "question": "Who is the Quality Assurance Lead responsible for safety investigations?",
+     "answer": "Dr. Arthur Pendelton"
+    },
+    {
+     "question": "What is the specific incident report number mentioned for the carbon-fiber fork defect?",
+     "answer": "#8842"
+    },
+    {
+     "question": "Within how many days must recalled inventory be destroyed or shipped back to the warehouse?",
+     "answer": "30 days"
+    }
+   ]
+  },
+  {
+   "topic": "sustainability targets",
+   "title": "Aurora Cycles Sustainability Targets Policy",
+   "body": "Aurora Cycles is committed to leading the green transition in the manufacturing sector through rigorous environmental initiatives. By December 31, 2030, our corporate headquarters located at 450 Innovation Way must achieve net-zero carbon emissions across all operational scopes. Chief Sustainability Officer Elena Vance leads the Green Operations Taskforce, which oversees the annual reduction of material waste by 25 percent compared to our 2019 baseline. Furthermore, all bicycle frames produced in our primary facility must incorporate at least 60 percent recycled aluminum alloys by the fiscal year 2026. To ensure total transparency and adherence to international environmental standards, external audits are conducted biannually by EcoVerify Corp. Department heads are required to submit quarterly energy consumption reports to the sustainability board no later than the fifteenth day of the month following each quarter end. Employees who commute using public transit or zero-emission vehicles are eligible for the corporate transit subsidy program, managed by payroll administrator Marcus Thorne. This initiative grants a monthly stipend of 150 dollars directly to participating staff members. By aligning our corporate ambitions with measurable benchmarks, Aurora Cycles guarantees a sustainable future for our community and customers alike, reinforcing our dedication to eco-friendly urban mobility solutions. We encourage all personnel to familiarize themselves with these benchmarks and actively participate in departmental green committees to help us reach our ultimate objective of total ecological restoration by the end of the decade.",
+   "questions": [
+    {
+     "question": "What is the deadline for the headquarters to reach net-zero carbon emissions?",
+     "answer": "December 31, 2030"
+    },
+    {
+     "question": "Who is heading the Green Operations Taskforce?",
+     "answer": "Elena Vance"
+    },
+    {
+     "question": "What is the monthly stipend amount for the transit subsidy program?",
+     "answer": "150 dollars"
+    }
+   ]
+  },
+  {
+   "topic": "internal chat and meeting etiquette",
+   "title": "Aurora Cycles Internal Chat and Meeting Etiquette",
+   "body": "Effective communication is the cornerstone of productivity at Aurora Cycles. To maintain a focused and respectful work environment, all personnel must adhere to our digital collaboration standards. Internal messaging takes place primarily on our enterprise platform, NexusChat, which was implemented on January 10, 2022, under the direction of IT Director Samuel Brooks. Staff are expected to update their status indicators accurately during core working hours, which run strictly from 9:00 AM to 5:00 PM Eastern Standard Time. When scheduling internal syncs, meeting organizers must limit guest lists to a maximum of 8 participants to ensure meaningful contributions from everyone present. Furthermore, all discussions must conclude at least 5 minutes before the scheduled end time to allow participants a brief pause before their next commitment. Video cameras are recommended during one-on-one sessions and team check-ins, but optional for large company-wide broadcasts managed by Communications Lead Beatrice King. Urgent matters requiring immediate attention outside of normal business hours should be routed through the emergency paging system managed by the security desk on Floor 3. Non-urgent queries sent via chat should never exceed 3 follow-up messages if no response is received within 24 hours. Adherence to these guidelines ensures our remote and hybrid workforce remains synchronized, respectful of personal boundaries, and maximally efficient in our daily bicycle design and manufacturing operations across all global divisions.",
+   "questions": [
+    {
+     "question": "On what date was the NexusChat platform implemented?",
+     "answer": "January 10, 2022"
+    },
+    {
+     "question": "What is the participant limit for internal sync meetings?",
+     "answer": "8 participants"
+    },
+    {
+     "question": "Which floor houses the security desk that handles the emergency paging system?",
+     "answer": "Floor 3"
+    }
+   ]
+  },
+  {
+   "topic": "password and device policy",
+   "title": "Aurora Cycles Password and Device Policy",
+   "body": "Information security is paramount at Aurora Cycles to protect our proprietary bicycle designs and sensitive employee data. Every staff member receives a standardized corporate laptop upon onboarding, managed strictly by Systems Administrator Arthur Pendelton. Device passwords must be updated every 90 days and must contain a minimum of 14 characters, combining uppercase letters, lowercase letters, numbers, and symbols. Reusing any of the last 5 passwords is strictly prohibited by our cybersecurity framework. Multi-factor authentication, powered by AuthGuard software, is mandatory for accessing all internal network drives and cloud repositories starting from March 1, 2023. If a corporate laptop or smartphone is lost or stolen, the incident must be reported to the IT Helpdesk within 2 hours of discovery to initiate remote data wiping protocols. Unauthorized software installations are prohibited; all application requests must be vetted and approved by Software Procurement Manager Clara Higgins. When working remotely, employees must connect exclusively through the corporate virtual private network, designated as VPN-Aurora-Secure. Violation of these security protocols can result in disciplinary action up to and including termination of employment. We conduct randomized phishing simulations quarterly to test employee vigilance, with mandatory remedial training assigned to anyone who fails the test twice within a calendar year. Your cooperation safeguards our intellectual property and maintains the trust of our global cycling community.",
+   "questions": [
+    {
+     "question": "How often are employees required to change their device passwords?",
+     "answer": "90 days"
+    },
+    {
+     "question": "On what date did multi-factor authentication become mandatory for network access?",
+     "answer": "March 1, 2023"
+    },
+    {
+     "question": "What is the time limit for reporting a lost corporate device to the IT Helpdesk?",
+     "answer": "2 hours"
+    }
+   ]
+  },
+  {
+   "topic": "volunteering days",
+   "title": "Aurora Cycles Volunteering Days Policy",
+   "body": "At Aurora Cycles, we believe in giving back to the local communities where we operate and ride. To support civic engagement, our Corporate Social Responsibility program, supervised by Director Julian Hayes, grants all full-time employees 24 hours of paid volunteer leave per calendar year. This program was officially launched during the company anniversary on August 15, 2021, and has since contributed thousands of hours to environmental and youth initiatives. Eligible volunteer activities include mentoring at local schools, participating in community bike-building workshops, and assisting recognized charities vetted by our community relations coordinator, Maya Lin. Employees wishing to use their paid volunteer time must submit a formal request through the HR portal at least 14 days in advance of the planned activity date. Group volunteering events organized by department heads must involve a minimum of 5 participants to qualify for company-sponsored transportation vouchers. Upon completion of the volunteer service, participants are required to submit a signed verification form from the host organization within 7 business days to ensure proper tracking and payroll processing. Unused volunteer hours do not roll over into the subsequent calendar year and cannot be cashed out upon separation of employment. By dedicating our time and skills to worthy causes, we embody the collaborative and community-driven spirit that defines every bicycle we build and every ride we take together.",
+   "questions": [
+    {
+     "question": "How many hours of paid volunteer leave does each full-time employee receive annually?",
+     "answer": "24 hours"
+    },
+    {
+     "question": "On what date was the corporate social responsibility program launched?",
+     "answer": "August 15, 2021"
+    },
+    {
+     "question": "What is the minimum number of participants required for group volunteering events to receive transportation vouchers?",
+     "answer": "5 participants"
+    }
+   ]
+  },
+  {
+   "topic": "relocation support",
+   "title": "Aurora Cycles Relocation Support Policy",
+   "body": "Aurora Cycles is committed to assisting valued employees with geographic transitions to ensure operational continuity across our global hubs. Under the direction of Global Mobility Director Sarah Jenkins, our relocation framework provides comprehensive financial assistance for eligible personnel moving for company initiatives. Effective January 15, 2024, full-time staff members who relocate more than 100 miles from their current primary residence qualify for these specialized provisions. The standard relocation package includes a lump-sum allowance of 5000 dollars designated for temporary housing and travel expenses incurred during the initial transition phase. Additionally, the organization contracts exclusively with Apex Moving Services to manage household goods transportation and secure storage for up to 60 days if required. Employees must submit all formal reimbursement claims through the internal finance portal no later than 30 days following their official arrival date at the new facility. Any cancellation or voluntary resignation from the company within 12 months of the relocation date will require the individual to repay the full financial assistance amount provided by Aurora Cycles. Exceptions to this recovery clause must be approved in writing by the Chief Human Resources Officer, David Vance, prior to the initiation of the move. For inquiries regarding specific tax implications or regional variances, personnel should consult the corporate intranet knowledge base or reach out directly to the human resources administration desk.",
+   "questions": [
+    {
+     "question": "When did the updated relocation guidelines take effect?",
+     "answer": "January 15, 2024"
+    },
+    {
+     "question": "What is the monetary value of the standard moving stipend?",
+     "answer": "5000 dollars"
+    },
+    {
+     "question": "Which vendor is designated to handle household item transit?",
+     "answer": "Apex Moving Services"
+    }
+   ]
+  },
+  {
+   "topic": "sick leave procedure",
+   "title": "Aurora Cycles Sick Leave Procedure",
+   "body": "Maintaining a healthy and productive workplace is a core priority at Aurora Cycles. All permanent employees accrue sick leave at a rate of 1.5 days per completed calendar month of continuous service, starting on their initial hire date. When an employee is unable to report to work due to illness or medical appointments, they must notify their direct supervisor via the internal messaging platform no later than 8:00 AM on the morning of the absence. For medical absences extending beyond 3 consecutive working days, staff members are required to submit a signed certificate from a licensed healthcare practitioner to the People Operations department upon their return. Occupational Health Coordinator Michael Torres oversees the review and processing of all medical documentation to ensure compliance with privacy regulations and company standards. Employees who exhaust their accrued sick leave balance may apply for temporary unpaid medical leave for a maximum duration of 12 weeks, provided they have completed at least 1 year of continuous employment with Aurora Cycles. During any approved extended medical leave, the organization continues to cover the employer portion of health insurance premiums as outlined in the master benefits agreement. Abuse of the sick leave policy, including fraudulent reporting or unauthorized use of wellness days, will result in formal disciplinary action handled by the ethics committee, which may lead to immediate termination of employment. For further clarification regarding long-term disability integration, personnel should review document reference code SL-889 available on the corporate intranet.",
+   "questions": [
+    {
+     "question": "At what time in the morning must staff inform management of an absence?",
+     "answer": "8:00 AM"
+    },
+    {
+     "question": "After how many days away from work is a doctor's note mandatory?",
+     "answer": "3 consecutive working days"
+    },
+    {
+     "question": "What is the reference code for the sick leave policy document?",
+     "answer": "SL-889"
+    }
+   ]
+  },
+  {
+   "topic": "intellectual property and patents",
+   "title": "Aurora Cycles Intellectual Property and Patents Policy",
+   "body": "Innovation is the lifeblood of Aurora Cycles, and protecting our proprietary bicycle designs and manufacturing techniques is essential to our market leadership. All inventions, discoveries, software code, and industrial designs created by employees during their tenure are the exclusive property of the company. This mandate applies to work developed using company equipment, working hours, or confidential information, as governed by the overarching agreement signed upon hiring. Chief Technology Officer Elena Rostova manages the review committee responsible for evaluating new submissions and determining commercial viability for patent applications. Employees who conceive a patentable invention must complete the standard disclosure form and submit it to the legal department within 14 business days of initial prototyping. As an incentive for continuous creativity, Aurora Cycles awards inventors a bonus of 2500 dollars upon the successful filing of a utility patent with the national patent office. Furthermore, the company retains exclusive worldwide licensing rights for all innovations produced by staff for a period of 20 years from the date of the initial disclosure. Unauthorized sharing or external publication of proprietary engineering schematics constitutes a severe breach of the corporate non-disclosure agreement and may result in legal prosecution. Contractors and temporary research partners are similarly bound by these strict stipulations under separate commercial contracts managed by procurement officer Robert Chen. Employees with questions regarding prior art searches should consult the internal research library portal.",
+   "questions": [
+    {
+     "question": "What is the financial reward given to inventors when a utility patent is filed?",
+     "answer": "2500 dollars"
+    },
+    {
+     "question": "Within how many business days must staff submit a disclosure form for an invention?",
+     "answer": "14 business days"
+    },
+    {
+     "question": "How long does the enterprise hold exclusive licensing rights for staff innovations?",
+     "answer": "20 years"
+    }
+   ]
+  },
+  {
+   "topic": "end of employment and notice periods",
+   "title": "Aurora Cycles End of Employment and Notice Periods",
+   "body": "Transitions in employment status at Aurora Cycles require careful coordination to ensure a smooth handover of responsibilities and protect company interests. When an employee decides to voluntarily leave the organization, they are expected to provide formal written notice to their department manager and the human resources department. For non-management staff, the mandatory notice period is 2 weeks, whereas senior engineers, product managers, and directors must provide at least 4 weeks of advance notice. Vice President of Human Resources Rachel Green oversees the offboarding process and conducts exit interviews to gather constructive feedback regarding company culture and operations. All departing personnel must return company-issued assets, including laptops, security badges, and specialized design tools, to the IT asset management desk located in Building B no later than 5:00 PM on their final working day. Final compensation, including payment for accumulated unused vacation days up to a maximum cap of 15 days, will be disbursed via direct deposit on the next regularly scheduled payroll date, which falls on the 30th of the month. Aurora Cycles reserves the right to waive the notice period and provide pay in lieu of notice if business continuity or security considerations dictate an immediate departure. Any failure to return company property or settle outstanding expense accounts may result in deductions from the final paycheck as permitted by regional labor laws. Former staff members seeking employment verification should direct inquiries to the automated verification line managed by payroll specialist Thomas Wright.",
+   "questions": [
+    {
+     "question": "How many weeks of prior notice must senior directors give before leaving?",
+     "answer": "4 weeks"
+    },
+    {
+     "question": "What is the upper limit for accrued vacation days eligible for payout?",
+     "answer": "15 days"
+    },
+    {
+     "question": "On which calendar date does the standard payroll disbursement occur?",
+     "answer": "30th of the month"
+    }
+   ]
+  }
+ ],
+ "unanswerable": [
+  "What is Trek's current market share in the European mountain bike sector?",
+  "Can I expense my personal gym membership through our corporate wellness program?",
+  "Who won the Tour de France in 1998?",
+  "What is the CEO's favorite brand of coffee?",
+  "How many calories do you burn on average during a 30-minute stationary bike ride?",
+  "What are the precise manufacturing tolerances used by Specialized for their carbon frames?",
+  "Will it rain during our company picnic next month?",
+  "Can I bring my pet iguana to the office on Fridays?",
+  "What is the airspeed velocity of an unladen swallow?",
+  "How do I configure my home Wi-Fi router to boost my streaming speed?",
+  "What is the chemical formula for vulcanized rubber?",
+  "Did Giant Bicycles acquire any new subsidiary companies last quarter?",
+  "What is the best recipe for chocolate chip cookies?",
+  "Who is playing at the local concert venue this Friday night?",
+  "What is the capital city of Australia?",
+  "How many gears did the very first bicycle ever invented have?",
+  "Can you help me draft an email to my landlord about a leaking sink?",
+  "What is the stock ticker symbol for Shimano?",
+  "Why is the sky blue?",
+  "What is the manager's stance on adopting a company-wide office dog?"
+ ]
+}

@@ -1,0 +1,107 @@
+{
+  "embedding_model": "local:BAAI/bge-small-en-v1.5",
+  "docs": 40,
+  "answerable": 120,
+  "unanswerable": 20,
+  "passages": 165,
+  "index_seconds": 7.9,
+  "modes": {
+    "keyword": {
+      "recall@1": 0.767,
+      "recall@3": 0.867,
+      "recall@5": 0.892,
+      "hit@600": 0.775,
+      "hit@1500": 0.867
+    },
+    "semantic": {
+      "recall@1": 0.75,
+      "recall@3": 0.867,
+      "recall@5": 0.908,
+      "hit@600": 0.758,
+      "hit@1500": 0.883
+    },
+    "hybrid": {
+      "recall@1": 0.742,
+      "recall@3": 0.9,
+      "recall@5": 0.942,
+      "hit@600": 0.792,
+      "hit@1500": 0.908
+    },
+    "hybrid+rerank": {
+      "recall@1": 0.883,
+      "recall@3": 0.958,
+      "recall@5": 0.967,
+      "hit@600": 0.883,
+      "hit@1500": 0.958
+    }
+  },
+  "cutoff_sweep": [
+    {
+      "cutoff": 0.3,
+      "answerable_kept": 1.0,
+      "unanswerable_wrongly_kept": 1.0,
+      "balanced": 0.5
+    },
+    {
+      "cutoff": 0.35,
+      "answerable_kept": 1.0,
+      "unanswerable_wrongly_kept": 1.0,
+      "balanced": 0.5
+    },
+    {
+      "cutoff": 0.4,
+      "answerable_kept": 1.0,
+      "unanswerable_wrongly_kept": 1.0,
+      "balanced": 0.5
+    },
+    {
+      "cutoff": 0.45,
+      "answerable_kept": 1.0,
+      "unanswerable_wrongly_kept": 0.8,
+      "balanced": 0.6
+    },
+    {
+      "cutoff": 0.5,
+      "answerable_kept": 1.0,
+      "unanswerable_wrongly_kept": 0.65,
+      "balanced": 0.675
+    },
+    {
+      "cutoff": 0.55,
+      "answerable_kept": 1.0,
+      "unanswerable_wrongly_kept": 0.45,
+      "balanced": 0.775
+    },
+    {
+      "cutoff": 0.6,
+      "answerable_kept": 0.95,
+      "unanswerable_wrongly_kept": 0.1,
+      "balanced": 0.925
+    },
+    {
+      "cutoff": 0.65,
+      "answerable_kept": 0.833,
+      "unanswerable_wrongly_kept": 0.05,
+      "balanced": 0.892
+    },
+    {
+      "cutoff": 0.7,
+      "answerable_kept": 0.525,
+      "unanswerable_wrongly_kept": 0.05,
+      "balanced": 0.738
+    },
+    {
+      "cutoff": 0.75,
+      "answerable_kept": 0.25,
+      "unanswerable_wrongly_kept": 0.0,
+      "balanced": 0.625
+    },
+    {
+      "cutoff": 0.8,
+      "answerable_kept": 0.067,
+      "unanswerable_wrongly_kept": 0.0,
+      "balanced": 0.533
+    }
+  ],
+  "best_cutoff": 0.6
+}
